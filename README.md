@@ -1,4 +1,4 @@
-# WebTest
+# TestWeb
 Thing for school
 
-Page located in [this subdirectory](public_html).
+Page located [here](https://thephisics101.github.io/TestWeb).
